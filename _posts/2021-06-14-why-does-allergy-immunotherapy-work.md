@@ -68,8 +68,7 @@ This account does answer our question about normal vaccination vs allergy vaccin
 While there may be specific differences depending on the specific way in which a particular extract is prepared, the primary distinction between an environmental allergen and a chemical extract of the same allergen is its size. For instance, pollen particles are in the range of 10-100 microns wide, significantly larger than a solution of the constituent allergenic proteins. The innate immune cells that directly interact with allergen-bearing particles upon exposure (as opposed to downstream T cells and B cells) can detect how large something is and change their response accordingly.  Specifically, the type 2 system, responsible for allergies, also functions in helminth immunity. Helminths are multicellular animals significantly larger than phagocytic cells. The immune system can't rely on phagocytosis and instead need to use other strategies- check out this video of eosinophils attacking a parasite by swarming it and degranulating around it. This suggest a simple rule: small things induce a type 1 response, since they can be phagocytosed, and big things induce a type 2 response, since they cannot.
 
 <p align="center">
-	<iframe width="420" height="315" src="https://www.youtube.com/watch?v=wDvxLSA6kN4" frameborder="0" allowfullscreen>
-	</iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/wDvxLSA6kN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 However, there's a problem with this hypothesis: it is common practice in animal models to induce sensitization using an allergen extract. This is true for house dust mites in both [mice](https://pubmed.ncbi.nlm.nih.gov/10090041/) and [sheep](https://pubmed.ncbi.nlm.nih.gov/18937841/), [ragweed](https://www.sciencedirect.com/science/article/abs/pii/S0091674903801367) in mice, and [ovalbumin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3466954/) (egg protein), the most commonly used allergen. Since both native allergen and extract can sensitize, that rules out any explanation based on systematic structural differences between the two.
@@ -170,7 +169,7 @@ In the US, SLIT is in a weird legal category where it is not approved by the FDA
 
 &nbsp;
 
-_Thanks to [Ago Lajko](https://agolajko.com/about.html) for feedback on drafts._
+_Thanks to [Ago Lajko](https://agolajko.com/about.html) and Eric Frank for feedback on drafts._
 
 [^1]: The mechanism by which this occurs is called [V(D)J recombination](https://en.wikipedia.org/wiki/V%28D%29J_recombination). It is extremely cool and I encourage you to look it up.
 
